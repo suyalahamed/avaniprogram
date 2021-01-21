@@ -28,7 +28,7 @@ public class ListSetMap {
        m.put("Ananth","manager");
        System.out.println(l);//order of insertion is maintained in list
        System.out.println(s);//order of insertion is not maintained
-       System.out.println(m);//
+       System.out.println(m);//order of insertion not maintained
 	}
 
 }
